@@ -1,2 +1,2 @@
-# wed-dev
+# web-dev
 Web Dev Practice
